@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Roles y permisos
                 </div>
 
                 <div class="links">
